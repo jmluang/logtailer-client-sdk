@@ -34,7 +34,7 @@ final class LogtailHandlerBuilder
     /**
      * Builder for comfortable creation of {@see LogtailHandler}.
      *
-     * @var    string $sourceToken Your Better Stack source token.
+     * @var    string $sourceToken Your Logtailer Stack source token.
      * @see    https://logs.betterstack.com/team/0/sources
      * @return self   Always returns new immutable instance
      */
